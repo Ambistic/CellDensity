@@ -1,0 +1,10 @@
+Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Area µm^2	Perimeter µm	Length µm
+BB360-RH63.czi	VZ / ISVZ	VZ / ISVZ	Image	Polygon	7013.4	4164.8	1666117.2	12877	NaN
+BB360-RH63.czi	OSVZ	OSVZ	Image	Polygon	4908.9	5276.3	992356.6	5150.5	NaN
+BB360-RH63.czi	OSVZ	OSVZ	Image	Polygon	7969.6	8727.4	125366.7	1966.9	NaN
+BB360-RH63.czi	OSVZ	OSVZ	Image	Polygon	8419.9	7537.6	290000.2	3582.7	NaN
+BB360-RH63.czi	VZ / ISVZ	VZ / ISVZ	Image	Polygon	5383.9	5331.9	627096.8	3785.2	NaN
+BB360-RH63.czi	PathAnnotationObject		Image	Line	7667.1	8613.7	NaN	NaN	2755.6
+BB360-RH63.czi	OSVZ	OSVZ	Image	Polygon	7181.6	3698	4325870.5	16363.7	NaN
+BB360-RH63.czi	VZ / ISVZ	VZ / ISVZ	Image	Polygon	8139	7789.1	431712.3	4714	NaN
+BB360-RH63.czi	PathAnnotationObject		Image	Line	5444.9	6127.3	NaN	NaN	2367.9

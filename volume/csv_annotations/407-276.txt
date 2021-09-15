@@ -1,0 +1,2 @@
+Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Area µm^2	Perimeter µm
+BB407-RH276.czi	OSVZ	OSVZ	Image	Polygon	4646.6	5722.2	7840731.4	20206.6
